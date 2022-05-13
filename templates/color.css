@@ -1,0 +1,6 @@
+.rectangulo{
+    background-color: lightgrey;
+    border: 2px solid black;
+    width: 120px;
+    height: 500px;
+}
